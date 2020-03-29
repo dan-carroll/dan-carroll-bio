@@ -1,8 +1,10 @@
+## Dan Carroll's One Page Bio
+
 This onepage-bio is being altered to fit me. Please refer to the original at [chuckgroom/onepage-bio](https://github.com/chuckgroom/onepage-bio) for any pulls or commits.
 
 See below for the original Readme info.
 
-========================================================================================================
+================================================================================
 
 This is an example one-pager site that prospective job-seekers can use to quickly
 highlight their accomplishments and make an introduction. It can be hosted for free using
