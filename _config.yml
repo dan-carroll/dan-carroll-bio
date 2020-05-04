@@ -1,7 +1,7 @@
 # Site settings
 name: Dan Carroll
 email: dan@dmcarroll.net
-#canonical_url: https://dan-carroll.github.io
+canonical_url: https://dan-carroll.github.io
 keywords: "Software Engineer, Systems Engineer, Data Engineer, Writer"
 skills: "Computer Systems and Software Engineer in Florida"
 baseurl:
