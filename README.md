@@ -1,4 +1,4 @@
-## Dan Carroll's One Page Bio
+## [Dan Carroll's One Page Bio](https://dan-carroll.github.io/dan-carroll-bio/)
 
 This onepage-bio is being altered to fit me. Please refer to the original at [chuckgroom/onepage-bio](https://github.com/chuckgroom/onepage-bio) for any pulls or commits.
 
