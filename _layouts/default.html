@@ -2,7 +2,6 @@
 <html>
   <head>
       <meta charset="utf-8">
-      <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta name="description" content="{{ site.name }} {{ site.skills }}">
@@ -12,12 +11,6 @@
 
       <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
       <link rel="stylesheet" href="{{ site.baseurl }}{{ "/style.css" }}">
-
-      <!-- Google verification -->
-      {% if site.google_verify %}<meta name="google-site-verification" content="{{ site.google_verify }}">{% endif %}
-
-      <!-- Bing Verification -->
-      {% if site.bing_verify %}<meta name="msvalidate.01" content="{{ site.bing_verify }}">{% endif %}
 
       <!-- Custom Fonts -->
       <link rel="stylesheet" href="{{ site.baseurl }}{{ "/css/font-awesome/css/font-awesome.min.css" }}">
